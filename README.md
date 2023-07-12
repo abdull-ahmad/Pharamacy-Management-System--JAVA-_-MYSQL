@@ -1,6 +1,6 @@
 # PMS-JAVA-MONGO-MYSQL
 A very basic Pharmacy Inventory Management System with a POS System 
-======================================
+
 # For MySql:
 1) Ensure that mysql is running on your system
 2) Run the code on your compiler
@@ -13,7 +13,7 @@ A very basic Pharmacy Inventory Management System with a POS System
 # Note:
   1) Salesperson and Pharmacy Manager have different dashboards and functionality
   2) All the Necessary files are included
-===========================================
+
 # For Mongo: 
 1) Ensure that mongo is running on your system
 2) Open mongoshell or compass and create a database with 4 collections as following:
