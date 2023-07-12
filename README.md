@@ -9,7 +9,7 @@ A very basic Pharmacy Inventory Management System with a POS System
 5) Run the main of "Add_User" and add a new user
 6) Now you can run the main of "pharmacymanagementsystem"
 # Problems to be Highlighted:
- The date in all the collections should be of date format rather than string 
+ 1) The date in all the collections should be of date format rather than string 
 # Note:
   1) Salesperson and Pharmacy Manager have different dashboards and functionality
   2) All the Necessary files are included
@@ -25,8 +25,8 @@ A very basic Pharmacy Inventory Management System with a POS System
 4) Run the main of "Add_User" and add a new user
 5) Now you can run the main of "pharmacymanagementsystem"
 # Problems to be Highlighted:
-  In the customer collection the "Medicine_name" should be of array type so that it can store multiple medicine name
-  The date in all the collections should be of date format rather than string 
+ 1)  In the customer collection the "Medicine_name" should be of array type so that it can store multiple medicine name
+ 2)  The date in all the collections should be of date format rather than string  
 # Note:
   1) Salesperson and Pharmacy Manager have different dashboards and functionality
   2) All the Necessary files are included
