@@ -11,8 +11,8 @@ A very basic Pharmacy Inventory Management System with a POS System
 # Problems to be Highlighted:
  The date in all the collections should be of date format rather than string 
 # Note:
-  Salesperson and Pharmacy Manager have different dashboards and functionality
-  All the Necessary files are included
+  1) Salesperson and Pharmacy Manager have different dashboards and functionality
+  2) All the Necessary files are included
 ===========================================
 # For Mongo: 
 1) Ensure that mongo is running on your system
@@ -28,5 +28,6 @@ A very basic Pharmacy Inventory Management System with a POS System
   In the customer collection the "Medicine_name" should be of array type so that it can store multiple medicine name
   The date in all the collections should be of date format rather than string 
 # Note:
-  Salesperson and Pharmacy Manager have different dashboards and functionality
-  All the Necessary files are included
+  1) Salesperson and Pharmacy Manager have different dashboards and functionality
+  2) All the Necessary files are included
+  
